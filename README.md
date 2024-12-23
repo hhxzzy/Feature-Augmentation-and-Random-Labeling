@@ -1,6 +1,6 @@
 ## Introduction
 
-This zip file contains the Pytorch implementation of our paper **Regularizing Classifier For Few-Shot Object Detection via Feature Augmentation and Random Labeling**. Our code is based on the baseline algorithm [DeFRCN](https://github.com/er-muyue/DeFRCN/tree/main). 
+This repository contains the Pytorch implementation of our paper **Regularizing Classifier For Few-Shot Object Detection via Feature Augmentation and Random Labeling**. Our code is based on the baseline algorithm [DeFRCN](https://github.com/er-muyue/DeFRCN/tree/main). 
 
 The methods of our paper are mainly implemented in `FARL/defrcn/modeling/roi_heads/roi_heads.py`.
 
